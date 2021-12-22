@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sample-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-22T22:51:37.5728414+05:30"
+    description: A Helm chart for Kubernetes
+    digest: bc56e19ad8993f1abeda59cab407bfec733fb246b4a76717758f11c3f3a11f84
+    name: sample-app
+    type: application
+    urls:
+    - https://sgopishetty.github.io/charts/sample-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-12-22T22:51:37.5721316+05:30"
